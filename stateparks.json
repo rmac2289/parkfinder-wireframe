@@ -1,0 +1,826 @@
+{
+    "parks": [
+        {
+            "fullName": "Anza-Borrego Desert State Park"
+        },
+        {
+            "fullName": "Armstrong Redwoods State Natural Reserve"
+        },
+        {
+            "fullName": "Arthur B. Ripley Desert Woodland State Park"
+        },
+        {
+            "fullName": "Asilomar State Beach"
+        },
+        {
+            "fullName": "Auburn State Recreation Area"
+        },
+        {
+            "fullName": "Austin Creek State Recreation Area"
+        },
+        {
+            "fullName": "Azalea State Natural Reserve"
+        },
+        {
+            "fullName": "Bale Grist Mill State Historic Park"
+        },
+        {
+            "fullName": "Bean Hollow State Beach"
+        },
+        {
+            "fullName": "Benbow State Recreation Area"
+        },
+        {
+            "fullName": "Benicia State Recreation Area"
+        },
+        {
+            "fullName": "Benicia Capitol State Historic Park"
+        },
+        {
+            "fullName": "Bethany Reservoir State Recreation Area"
+        },
+        {
+            "fullName": "Bidwell Mansion State Historic Park"
+        },
+        {
+            "fullName": "Bidwell-Sacramento River State Park"
+        },
+        {
+            "fullName": "Big Basin Redwoods State Park"
+        },
+        {
+            "fullName": "Bodie State Historic Park"
+        },
+        {
+            "fullName": "Bolsa Chica State Beach"
+        },
+        {
+            "fullName": "Border Field State Park"
+        },
+        {
+            "fullName": "Bothe-Napa Valley State Park"
+        },
+        {
+            "fullName": "Brannan Island State Recreation Area"
+        },
+        {
+            "fullName": "Burleigh H. Murray Ranch Park Property"
+        },
+        {
+            "fullName": "Burton Creek State Park"
+        },
+        {
+            "fullName": "Butano State Park"
+        },
+        {
+            "fullName": "Butte City Project Park Property"
+        },
+        {
+            "fullName": "Calaveras Big Trees State Park"
+        },
+        {
+            "fullName": "California Citrus State Historic Park"
+        },
+        {
+            "fullName": "California Indian Heritage Center Park Property"
+        },
+        {
+            "fullName": "California State Capitol"
+        },
+        {
+            "fullName": "California State Mining and Mineral Museum Park Property"
+        },
+        {
+            "fullName": "California State Railroad Museum Point of Interest"
+        },
+        {
+            "fullName": "Cambria State Marine Park"
+        },
+        {
+            "fullName": "Candlestick Point State Recreation Area"
+        },
+        {
+            "fullName": "Cardiff State Beach"
+        },
+        {
+            "fullName": "Carlsbad State Beach"
+        },
+        {
+            "fullName": "Carmel River State Beach"
+        },
+        {
+            "fullName": "Carnegie State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Carpinteria State Beach"
+        },
+        {
+            "fullName": "Caspar Headlands State Natural Reserve"
+        },
+        {
+            "fullName": "Caspar Headlands State Beach"
+        },
+        {
+            "fullName": "Castaic Lake State Recreation Area"
+        },
+        {
+            "fullName": "Castle Crags State Park"
+        },
+        {
+            "fullName": "Castle Rock State Park"
+        },
+        {
+            "fullName": "Caswell Memorial State Park"
+        },
+        {
+            "fullName": "Cayucos State Beach"
+        },
+        {
+            "fullName": "China Camp State Park"
+        },
+        {
+            "fullName": "Chino Hills State Park"
+        },
+        {
+            "fullName": "Chumash Painted Cave State Historic Park"
+        },
+        {
+            "fullName": "Clay Pit State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Clear Lake State Park"
+        },
+        {
+            "fullName": "Colonel Allensworth State Historic Park"
+        },
+        {
+            "fullName": "Columbia State Historic Park"
+        },
+        {
+            "fullName": "Colusa-Sacramento River State Recreation Area"
+        },
+        {
+            "fullName": "Corona del Mar State Beach"
+        },
+        {
+            "fullName": "Crystal Cove State Park"
+        },
+        {
+            "fullName": "Cuyamaca Rancho State Park"
+        },
+        {
+            "fullName": "D. L. Bliss State Park"
+        },
+        {
+            "fullName": "Del Norte Coast Redwoods State Park"
+        },
+        {
+            "fullName": "Delta Meadows Park Property"
+        },
+        {
+            "fullName": "Dockweiler State Beach"
+        },
+        {
+            "fullName": "Doheny State Beach"
+        },
+        {
+            "fullName": "Donner Memorial State Park"
+        },
+        {
+            "fullName": "Eastern Kern County Onyx Ranch State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Ed Z'berg Sugar Pine Point State Park"
+        },
+        {
+            "fullName": "El Capitán State Beach"
+        },
+        {
+            "fullName": "El Presidio de Santa Barbara State Historic Park"
+        },
+        {
+            "fullName": "Emerald Bay State Park"
+        },
+        {
+            "fullName": "Emeryville Crescent State Marine Reserve"
+        },
+        {
+            "fullName": "Emma Wood State Beach"
+        },
+        {
+            "fullName": "Empire Mine State Historic Park"
+        },
+        {
+            "fullName": "Estero Bluffs State Park"
+        },
+        {
+            "fullName": "Folsom Lake State Recreation Area"
+        },
+        {
+            "fullName": "Folsom Powerhouse State Historic Park"
+        },
+        {
+            "fullName": "Fort Humboldt State Historic Park"
+        },
+        {
+            "fullName": "Fort Ord Dunes State Park"
+        },
+        {
+            "fullName": "Fort Ross State Historic Park"
+        },
+        {
+            "fullName": "Fort Tejon State Historic Park"
+        },
+        {
+            "fullName": "Franks Tract State Recreation Area"
+        },
+        {
+            "fullName": "Fremont Peak State Park"
+        },
+        {
+            "fullName": "Garrapata State Park"
+        },
+        {
+            "fullName": "Gaviota State Park"
+        },
+        {
+            "fullName": "George J. Hatfield State Recreation Area"
+        },
+        {
+            "fullName": "Governor's Mansion State Historic Park"
+        },
+        {
+            "fullName": "Gray Whale Cove State Beach"
+        },
+        {
+            "fullName": "Great Valley Grasslands State Park"
+        },
+        {
+            "fullName": "Greenwood State Beach"
+        },
+        {
+            "fullName": "Grizzly Creek Redwoods State Park"
+        },
+        {
+            "fullName": "Grover Hot Springs State Park"
+        },
+        {
+            "fullName": "Half Moon Bay State Beach"
+        },
+        {
+            "fullName": "Harmony Headlands State Park"
+        },
+        {
+            "fullName": "Harry A. Merlo State Recreation Area"
+        },
+        {
+            "fullName": "Hatton Canyon Park Property"
+        },
+        {
+            "fullName": "Hearst San Simeon State Park"
+        },
+        {
+            "fullName": "Hearst San Simeon State Historical Monument"
+        },
+        {
+            "fullName": "Heber Dunes State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Hendy Woods State Park"
+        },
+        {
+            "fullName": "Henry Cowell Redwoods State Park"
+        },
+        {
+            "fullName": "Henry W. Coe State Park"
+        },
+        {
+            "fullName": "Hollister Hills State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Humboldt Lagoons State Park"
+        },
+        {
+            "fullName": "Humboldt Redwoods State Park"
+        },
+        {
+            "fullName": "Hungry Valley State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Huntington State Beach"
+        },
+        {
+            "fullName": "Indian Grinding Rock State Historic Park"
+        },
+        {
+            "fullName": "Indio Hills Palms Park Property"
+        },
+        {
+            "fullName": "Jack London State Historic Park"
+        },
+        {
+            "fullName": "Jedediah Smith Redwoods State Park"
+        },
+        {
+            "fullName": "John B. Dewitt Redwoods State Natural Reserve"
+        },
+        {
+            "fullName": "John Little State Natural Reserve"
+        },
+        {
+            "fullName": "Jug Handle State Natural Reserve"
+        },
+        {
+            "fullName": "Julia Pfeiffer Burns State Park"
+        },
+        {
+            "fullName": "Kenneth Hahn State Recreation Area"
+        },
+        {
+            "fullName": "Kings Beach State Recreation Area"
+        },
+        {
+            "fullName": "Kruse Rhododendron State Natural Reserve"
+        },
+        {
+            "fullName": "La Purísima Mission State Historic Park"
+        },
+        {
+            "fullName": "Lake Del Valle State Recreation Area"
+        },
+        {
+            "fullName": "Lake Oroville State Recreation Area"
+        },
+        {
+            "fullName": "Lake Perris State Recreation Area"
+        },
+        {
+            "fullName": "Lake Valley State Recreation Area"
+        },
+        {
+            "fullName": "Leland Stanford Mansion State Historic Park"
+        },
+        {
+            "fullName": "Leo Carrillo State Park"
+        },
+        {
+            "fullName": "Leucadia State Beach"
+        },
+        {
+            "fullName": "Lighthouse Field State Beach"
+        },
+        {
+            "fullName": "Limekiln State Park"
+        },
+        {
+            "fullName": "Little River State Beach"
+        },
+        {
+            "fullName": "Locke Boarding House Museum Point of Interest"
+        },
+        {
+            "fullName": "Los Angeles State Historic Park"
+        },
+        {
+            "fullName": "Los Encinos State Historic Park"
+        },
+        {
+            "fullName": "Los Osos Oaks State Natural Reserve"
+        },
+        {
+            "fullName": "MacKerricher State Park"
+        },
+        {
+            "fullName": "Mailliard Redwoods State Natural Reserve"
+        },
+        {
+            "fullName": "Malakoff Diggins State Historic Park"
+        },
+        {
+            "fullName": "Malibu Creek State Park"
+        },
+        {
+            "fullName": "Malibu Lagoon State Beach"
+        },
+        {
+            "fullName": "Manchester State Park"
+        },
+        {
+            "fullName": "Mandalay State Beach"
+        },
+        {
+            "fullName": "Manresa State Beach"
+        },
+        {
+            "fullName": "Marconi Conference Center State Historic Park"
+        },
+        {
+            "fullName": "Marina State Beach"
+        },
+        {
+            "fullName": "Marsh Creek State Park State Historic Park"
+        },
+        {
+            "fullName": "Marshall Gold Discovery State Historic Park"
+        },
+        {
+            "fullName": "Martial Cottle Park State Recreation Area"
+        },
+        {
+            "fullName": "McArthur-Burney Falls Memorial State Park"
+        },
+        {
+            "fullName": "McConnell State Recreation Area"
+        },
+        {
+            "fullName": "McGrath State Beach"
+        },
+        {
+            "fullName": "McLaughlin Eastshore State Park State Seashore"
+        },
+        {
+            "fullName": "Mendocino Headlands State Park"
+        },
+        {
+            "fullName": "Mendocino Woodlands State Park"
+        },
+        {
+            "fullName": "Millerton Lake State Recreation Area"
+        },
+        {
+            "fullName": "Mono Lake Tufa State Natural Reserve"
+        },
+        {
+            "fullName": "Montaña de Oro State Park"
+        },
+        {
+            "fullName": "Montara State Beach"
+        },
+        {
+            "fullName": "Monterey State Historic Park"
+        },
+        {
+            "fullName": "Monterey State Beach"
+        },
+        {
+            "fullName": "Montgomery Woods State Natural Reserve"
+        },
+        {
+            "fullName": "Moonlight State Beach"
+        },
+        {
+            "fullName": "Morro Bay State Park"
+        },
+        {
+            "fullName": "Morro Strand State Beach"
+        },
+        {
+            "fullName": "Moss Landing State Beach"
+        },
+        {
+            "fullName": "Mount Diablo State Park"
+        },
+        {
+            "fullName": "Mount San Jacinto State Park"
+        },
+        {
+            "fullName": "Mount Tamalpais State Park"
+        },
+        {
+            "fullName": "Natural Bridges State Beach"
+        },
+        {
+            "fullName": "Navarro River Redwoods State Park"
+        },
+        {
+            "fullName": "New Brighton State Beach"
+        },
+        {
+            "fullName": "Oceano Dunes State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Ocotillo Wells State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Old Sacramento State Historic Park"
+        },
+        {
+            "fullName": "Old Town San Diego State Historic Park"
+        },
+        {
+            "fullName": "Olompali State Historic Park"
+        },
+        {
+            "fullName": "Pacheco State Park"
+        },
+        {
+            "fullName": "Pacifica State Beach"
+        },
+        {
+            "fullName": "Palomar Mountain State Park"
+        },
+        {
+            "fullName": "Patrick's Point State Park"
+        },
+        {
+            "fullName": "Pelican State Beach"
+        },
+        {
+            "fullName": "Pescadero State Beach"
+        },
+        {
+            "fullName": "Petaluma Adobe State Historic Park"
+        },
+        {
+            "fullName": "Pfeiffer Big Sur State Park"
+        },
+        {
+            "fullName": "Picacho State Recreation Area"
+        },
+        {
+            "fullName": "Pigeon Point Light Station State Historic Park"
+        },
+        {
+            "fullName": "Pío Pico State Historic Park"
+        },
+        {
+            "fullName": "Pismo State Beach"
+        },
+        {
+            "fullName": "Placerita Canyon State Park"
+        },
+        {
+            "fullName": "Plumas-Eureka State Park"
+        },
+        {
+            "fullName": "Point Cabrillo Light Station State Historic Park"
+        },
+        {
+            "fullName": "Point Dume State Beach"
+        },
+        {
+            "fullName": "Point Lobos State Natural Reserve"
+        },
+        {
+            "fullName": "Point Lobos Ranch Park Property"
+        },
+        {
+            "fullName": "Point Mugu State Park"
+        },
+        {
+            "fullName": "Point Sal State Beach"
+        },
+        {
+            "fullName": "Point Sur State Historic Park"
+        },
+        {
+            "fullName": "Pomponio State Beach"
+        },
+        {
+            "fullName": "Portola Redwoods State Park"
+        },
+        {
+            "fullName": "Prairie City State Vehicular Recreation Area"
+        },
+        {
+            "fullName": "Prairie Creek Redwoods State Park"
+        },
+        {
+            "fullName": "Providence Mountains State Recreation Area"
+        },
+        {
+            "fullName": "Railtown 1897 State Historic Park"
+        },
+        {
+            "fullName": "Rancho San Andrés Castro Adobe Park Property"
+        },
+        {
+            "fullName": "Red Rock Canyon State Park"
+        },
+        {
+            "fullName": "Refugio State Beach"
+        },
+        {
+            "fullName": "Reynolds Wayside Campground"
+        },
+        {
+            "fullName": "Richardson Grove State Park"
+        },
+        {
+            "fullName": "Rio de Los Angeles State Park State Recreation Area"
+        },
+        {
+            "fullName": "Robert H. Meyer Memorial State Beach"
+        },
+        {
+            "fullName": "Robert Louis Stevenson State Park"
+        },
+        {
+            "fullName": "Robert W. Crown Memorial State Beach"
+        },
+        {
+            "fullName": "Russian Gulch State Park"
+        },
+        {
+            "fullName": "Saddleback Butte State Park"
+        },
+        {
+            "fullName": "Salinas River State Beach"
+        },
+        {
+            "fullName": "Salt Point State Park"
+        },
+        {
+            "fullName": "Salton Sea State Recreation Area"
+        },
+        {
+            "fullName": "Samuel P. Taylor State Park"
+        },
+        {
+            "fullName": "San Bruno Mountain State Park"
+        },
+        {
+            "fullName": "San Buenaventura State Beach"
+        },
+        {
+            "fullName": "San Clemente State Beach"
+        },
+        {
+            "fullName": "San Elijo State Beach"
+        },
+        {
+            "fullName": "San Gregorio State Beach"
+        },
+        {
+            "fullName": "San Juan Bautista State Historic Park"
+        },
+        {
+            "fullName": "San Luis Reservoir State Recreation Area"
+        },
+        {
+            "fullName": "San Onofre State Beach"
+        },
+        {
+            "fullName": "San Pasqual Battlefield State Historic Park"
+        },
+        {
+            "fullName": "San Timoteo Canyon Park Property"
+        },
+        {
+            "fullName": "Santa Cruz Mission State Historic Park"
+        },
+        {
+            "fullName": "Santa Monica State Beach"
+        },
+        {
+            "fullName": "Santa Susana Pass State Historic Park"
+        },
+        {
+            "fullName": "Schooner Gulch State Beach"
+        },
+        {
+            "fullName": "Seacliff State Beach"
+        },
+        {
+            "fullName": "Shasta State Historic Park"
+        },
+        {
+            "fullName": "Silver Strand State Beach"
+        },
+        {
+            "fullName": "Silverwood Lake State Recreation Area"
+        },
+        {
+            "fullName": "Sinkyone Wilderness State Park"
+        },
+        {
+            "fullName": "Smithe Redwoods State Natural Reserve"
+        },
+        {
+            "fullName": "Sonoma State Historic Park"
+        },
+        {
+            "fullName": "Sonoma Coast State Park"
+        },
+        {
+            "fullName": "South Carlsbad State Beach"
+        },
+        {
+            "fullName": "South Yuba River State Park"
+        },
+        {
+            "fullName": "Standish-Hickey State Recreation Area"
+        },
+        {
+            "fullName": "State Indian Museum State Historic Park"
+        },
+        {
+            "fullName": "Stone Lake Park Property"
+        },
+        {
+            "fullName": "Sugarloaf Ridge State Park"
+        },
+        {
+            "fullName": "Sunset State Beach"
+        },
+        {
+            "fullName": "Sutter Buttes State Park"
+        },
+        {
+            "fullName": "Sutter's Fort State Historic Park"
+        },
+        {
+            "fullName": "Tahoe State Recreation Area"
+        },
+        {
+            "fullName": "The Forest of Nisene Marks State Park"
+        },
+        {
+            "fullName": "Thornton State Beach"
+        },
+        {
+            "fullName": "Tijuana Estuary NP Point of Interest"
+        },
+        {
+            "fullName": "Tolowa Dunes State Park"
+        },
+        {
+            "fullName": "Tomales Bay State Park"
+        },
+        {
+            "fullName": "Tomo-Kahni State Historic Park"
+        },
+        {
+            "fullName": "Topanga State Park"
+        },
+        {
+            "fullName": "Torrey Pines State Natural Reserve"
+        },
+        {
+            "fullName": "Torrey Pines State Beach"
+        },
+        {
+            "fullName": "Trinidad State Beach"
+        },
+        {
+            "fullName": "Trione-Annadel State Park"
+        },
+        {
+            "fullName": "Tule Elk State Natural Reserve"
+        },
+        {
+            "fullName": "Turlock Lake State Recreation Area"
+        },
+        {
+            "fullName": "Twin Lakes State Beach"
+        },
+        {
+            "fullName": "Van Damme State Park"
+        },
+        {
+            "fullName": "Verdugo Mountains Park Property"
+        },
+        {
+            "fullName": "Ward Creek Park Property"
+        },
+        {
+            "fullName": "Washoe Meadows State Park"
+        },
+        {
+            "fullName": "Wassama Round House State Historic Park"
+        },
+        {
+            "fullName": "Watts Towers of Simon Rodia State Historic Park"
+        },
+        {
+            "fullName": "Weaverville Joss House State Historic Park"
+        },
+        {
+            "fullName": "Westport-Union Landing State Beach"
+        },
+        {
+            "fullName": "Wilder Ranch State Park"
+        },
+        {
+            "fullName": "Wildwood Canyon Park Property"
+        },
+        {
+            "fullName": "Will Rogers State Beach"
+        },
+        {
+            "fullName": "Will Rogers State Historic Park"
+        },
+        {
+            "fullName": "William B. Ide Adobe State Historic Park"
+        },
+        {
+            "fullName": "Woodland Opera House State Historic Park"
+        },
+        {
+            "fullName": "Woodson Bridge State Recreation Area"
+        },
+        {
+            "fullName": "Zmudowski State Beach"
+        }
+        ]
+    }

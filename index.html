@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="./main.css" rel="stylesheet"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav class="nav">
+        <ul class="nav-list">
+        <li class="nav-list-item"><a class="nav-link" href="./login.html">Login</a></li>
+        <li class="nav-list-item"><a class="nav-link" href="./signup.html">Signup</a></li>
+        <li class="nav-list-item"><a class="nav-link" href="./index.html">Home</a></li>
+        <li class="nav-list-item"><a class="nav-link" href="./park.html">Park</a></li>
+        <li class="nav-list-item"><a class="nav-link" href="./review.html">Review</a></li>
+        <li class="nav-list-item"><a class="nav-link" href="./addpark.html">Add Park</a></li>
+        <li class="nav-list-item"><a class="nav-link" href="./parklist.html">Park List</a></li>
+        </ul>
+    </nav>
+    <div class="main">
+    <div class="header">
+        <header class="header-box">
+            <h1 class="header-text">find your park</h1>
+            <p class="header-p">Search for California parks by name or location, or narrow your search
+                by what activities are offered - once you find what you're looking for,
+                check out user reviews and comments. If you've experienced the park
+                yourself, sign up for an account and leave your own comments!
+            </p>
+        </header>
+    </div>
+        <section class="main-section">
+            <form class="search-form">
+                <div class="park-name">
+                    <input id="park-name-input" type="text" placeholder="Park name..."/>
+               </div>
+               <div class="activity-container">
+                <button id='activity-button' onClick={showMenu}>Activities </button>
+                         
+                            <div class="activity-select" value={activity}>
+                                <div class="select-container control-me">
+                                    <input class="activity-option" type="checkbox"  />
+                                    <label class="activity-label" >value</label>
+                                    <div class="control-me"></div>
+                                    </div>
+                            </div>
+                        </div>
+                <button type="submit" id="form-submit-button">
+                    Search
+                </button>
+            </form>     
+        </section >
+    </div>
+    <div className="footer">
+        <ul className="footer-list">
+            <li className="footer-list-item">2020 Ross MacDonald</li>
+        </ul>
+    </div>
+</body>
+</html>
